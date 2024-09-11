@@ -1,0 +1,6 @@
+@OnStyle.API_HostAddress = http://localhost:5109
+
+GET {{OnStyle.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
