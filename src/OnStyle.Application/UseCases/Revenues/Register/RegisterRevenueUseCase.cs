@@ -7,6 +7,15 @@ public class RegisterRevenueUseCase
 {
     public ResponseRegisterRevenueJson Execute(RequestRegisterRevenueJson request)
     {
+        Validate(request);
+        
         return new ResponseRegisterRevenueJson(); 
+    }
+
+    private void Validate(RequestRegisterRevenueJson request)
+    {
+        var validation = new RegisterRevenueValidator();
+
+        var result = validation.Validate(request);
     }
 }
