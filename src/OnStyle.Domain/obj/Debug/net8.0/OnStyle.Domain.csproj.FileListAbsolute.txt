@@ -1,0 +1,12 @@
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\bin\Debug\net8.0\OnStyle.Domain.deps.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\bin\Debug\net8.0\OnStyle.Domain.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\bin\Debug\net8.0\OnStyle.Domain.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\OnStyle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\OnStyle.Domain.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\OnStyle.Domain.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\OnStyle.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\OnStyle.Domain.sourcelink.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\OnStyle.Domain.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\refint\OnStyle.Domain.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\OnStyle.Domain.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Domain\obj\Debug\net8.0\ref\OnStyle.Domain.dll

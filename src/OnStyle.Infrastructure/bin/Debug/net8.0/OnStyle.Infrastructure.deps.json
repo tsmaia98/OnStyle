@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnStyle.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OnStyle.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OnStyle.Infrastructure.dll": {}
+        }
+      },
+      "OnStyle.Domain/1.0.0": {
+        "runtime": {
+          "OnStyle.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnStyle.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnStyle.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

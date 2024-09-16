@@ -1,0 +1,12 @@
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\bin\Debug\net8.0\OnStyle.Communication.deps.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\bin\Debug\net8.0\OnStyle.Communication.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\bin\Debug\net8.0\OnStyle.Communication.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\OnStyle.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\OnStyle.Communication.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\OnStyle.Communication.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\OnStyle.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\OnStyle.Communication.sourcelink.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\OnStyle.Communication.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\refint\OnStyle.Communication.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\OnStyle.Communication.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Communication\obj\Debug\net8.0\ref\OnStyle.Communication.dll

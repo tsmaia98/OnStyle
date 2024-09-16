@@ -1,0 +1,16 @@
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\bin\Debug\net8.0\OnStyle.Infrastructure.deps.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\bin\Debug\net8.0\OnStyle.Infrastructure.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\bin\Debug\net8.0\OnStyle.Infrastructure.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\bin\Debug\net8.0\OnStyle.Domain.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\bin\Debug\net8.0\OnStyle.Domain.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.sourcelink.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle..B1FD1E28.Up2Date
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\refint\OnStyle.Infrastructure.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\OnStyle.Infrastructure.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Infrastructure\obj\Debug\net8.0\ref\OnStyle.Infrastructure.dll

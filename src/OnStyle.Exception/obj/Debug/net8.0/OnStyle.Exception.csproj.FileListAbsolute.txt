@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\bin\Debug\net8.0\OnStyle.Exception.deps.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\bin\Debug\net8.0\OnStyle.Exception.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\bin\Debug\net8.0\OnStyle.Exception.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.ResourceErrorMessages.resources
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.sourcelink.json
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\refint\OnStyle.Exception.dll
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\OnStyle.Exception.pdb
+C:\Users\Pichau\source\repos\OnStyle\src\OnStyle.Exception\obj\Debug\net8.0\ref\OnStyle.Exception.dll

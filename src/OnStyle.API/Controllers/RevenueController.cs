@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using OnStyle.Application.UseCases.Revenues.Register;
 using OnStyle.Communication.Requests;
-using OnStyle.Communication.Response;
-using OnStyle.Exception.ExceptionsBase;
 
 namespace OnStyle.API.Controllers;
 
